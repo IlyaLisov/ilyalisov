@@ -1,16 +1,16 @@
 ### Hi there 👋
 
-<!--
-**IlyaLisov/ilyalisov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am **Backend Software Engineer** and **YouTube author**.
 
-Here are some ideas to get you started:
+You can follow me by clicking on links below.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Here are some useful links:
+
+* [Linkedin](https://www.linkedin.com/in/ilya-lisov/)
+* [YouTube](https://youtube.com/@IlyaLisov)
+* [Telegram](http://t.me/realhumanmaybe)
+* [Email](mailto:ilya.lisov.yt@gmail.com)
+* [Habr](https://habr.com/ru/users/ilyalisov/)
+* [Medium](https://medium.com/@ilyalisov)
+
+Also visit my [tech blog](https://ilyalisov.github.io)
