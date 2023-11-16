@@ -12,5 +12,4 @@ Here are some useful links:
 * [Email](mailto:ilya.lisov.yt@gmail.com)
 * [Habr](https://habr.com/ru/users/ilyalisov/)
 * [Medium](https://medium.com/@ilyalisov)
-
-Also visit my [tech blog](https://ilyalisov.github.io)
+* [Дзен](https://dzen.ru/ilyalisov)
