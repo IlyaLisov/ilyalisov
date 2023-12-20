@@ -14,4 +14,4 @@ Here are some useful links:
 * [Medium](https://medium.com/@ilyalisov)
 * [Дзен](https://dzen.ru/ilyalisov)
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=ilyalisov&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" />
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=ilyalisov&show_icons=true&hide_border=true" />
