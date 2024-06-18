@@ -13,7 +13,5 @@ Here are some useful links:
 * [Telegram](http://t.me/realhumanmaybe)
 * [Email](mailto:ilya.lisov.yt@gmail.com)
 * [Habr](https://habr.com/ru/users/ilyalisov/)
-* [Medium](https://medium.com/@ilyalisov)
-* [Дзен](https://dzen.ru/ilyalisov)
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=ilyalisov&show_icons=true&hide_border=true" />
