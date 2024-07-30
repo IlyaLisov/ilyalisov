@@ -14,4 +14,9 @@ Here are some useful links:
 * [Email](mailto:ilya.lisov.yt@gmail.com)
 * [Habr](https://habr.com/ru/users/ilyalisov/)
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=ilyalisov&show_icons=true&hide_border=true" />
+Here are my libraries:
+
+* [jwt](https://github.com/IlyaLisov/jwt) - JWT service for Java apps. Generate and validate tokens.
+* [storage](https://github.com/IlyaLisov/storage) - Storage service for Java apps. Save and retrieve files in S3 buckets.
+* [auth-codes](https://github.com/IlyaLisov/auth-codes) - Secured authorization codes for Java apps.
+* [mail](https://github.com/IlyaLisov/mail-service) - Mail service for Java apps. Send emails with templates.
