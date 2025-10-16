@@ -2,7 +2,7 @@
 
 I am **Backend Software Engineer** and **YouTube author**.
 
-See [my personal page](ilyalisov.github.io) to get all needed info about me.
+See [my personal page](https://ilyalisov.github.io) to get all needed info about me.
 
 You can follow me by clicking on links below.
 
