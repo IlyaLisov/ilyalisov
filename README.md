@@ -18,6 +18,7 @@ Here are some useful links:
 
 Here are my libraries:
 
+* [spring-boot-common](https://github.com/IlyaLisov/spring-boot-common) - A comprehensive common library for Spring Boot projects that eliminates boilerplate code and accelerates development of REST APIs with security features.
 * [jwt](https://github.com/IlyaLisov/jwt) - JWT service for Java apps. Generate and validate tokens.
 * [storage](https://github.com/IlyaLisov/storage) - Storage service for Java apps. Save and retrieve files in S3 buckets.
 * [spring-boot-starter-mail](https://github.com/IlyaLisov/spring-boot-starter-mail) - Mail service for Spring Boot apps. Send emails with templates.
