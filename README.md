@@ -2,8 +2,6 @@
 
 I am **Backend Software Engineer** and **YouTube author**.
 
-See [my personal page](https://ilyalisov.github.io) to get all needed info about me.
-
 You can follow me by clicking on links below.
 
 YouTube projects repositories [here](https://github.com/SpringBootCourses).
